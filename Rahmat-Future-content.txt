@@ -1,7 +1,8 @@
 Rencana Content ku
 - Bikin Youtuber
  . Video Pemrograman
+  - Java
+  - Phyton
  . Ngobar
-- Bikin Aplikasi
 - Belajar struktur data
 - Kursus
