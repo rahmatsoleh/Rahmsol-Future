@@ -1,7 +1,10 @@
 Rencana Content ku
 - Bikin Youtuber
  . Video Pemrograman
+  - C++
  . Ngobar
 - Bikin Aplikasi
+ - Desktop Aplikasi
 - Belajar struktur data
 - Kursus
+- Database
