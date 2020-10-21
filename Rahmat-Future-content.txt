@@ -3,4 +3,5 @@ Rencana Content ku
  . Video Pemrograman
  . Ngobar
 - Bikin Aplikasi
+- Belajar struktur data
 - Kursus
